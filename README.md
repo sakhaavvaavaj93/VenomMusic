@@ -304,7 +304,7 @@ One click → fill vars → deploy. Worker dyno included via `heroku.yml`.
 
 ### 🌐 Deploy on Render
 
-<a href="https://render.com/deploy?repo=https://github.com/venombolteop/VenomMusic"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Deploy%20On%20Render-46e3b7?style=for-the-badge&logo=render&logoColor=black" width="230" height="40"></a>
+<a href="https://render.com/deploy?repo=https://github.com/sakhaavvaavaj93/VenomMusic"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Deploy%20On%20Render-46e3b7?style=for-the-badge&logo=render&logoColor=black" width="230" height="40"></a>
 
 Uses `render.yaml` blueprint — fill env vars in the dashboard.
 
